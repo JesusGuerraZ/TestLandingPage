@@ -553,10 +553,12 @@ p.copyright {
   
   .Title_cel {
     display: block !important;
+    
+    margin-left: 110px;
   }
 
   .Case_cel {
-    margin-left: 120px;
+    margin-left: 110px;
     margin-top: 60px;
     margin-bottom: -55px;
     font-size: 24px;
