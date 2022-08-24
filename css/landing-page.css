@@ -367,6 +367,10 @@ p.copyright {
 /* RESPOSIVE */
 
 @media (max-width: 450px) {
+
+  .fondodos{
+    margin-left: 0px;
+  }
   .landing1 {
     background: #3691cf;
     border-radius: 20px;
