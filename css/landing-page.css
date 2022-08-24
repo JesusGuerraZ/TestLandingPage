@@ -369,8 +369,9 @@ p.copyright {
 @media (max-width: 450px) {
 
   .fondodos{
-    margin-left: 0px;
+    margin-left: 0px !important;
   }
+
   .landing1 {
     background: #3691cf;
     border-radius: 20px;
@@ -524,7 +525,7 @@ p.copyright {
     list-style: none;
   }
 
-  p .copyright {
+  .copyright {
     margin: 17px 15px !important;
     font-size: 16px !important;
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -533,4 +534,9 @@ p.copyright {
     width: 320px !important;
     text-align: center !important;
   }
+  
+  footer {
+    margin-left: 0px !important;
+  }
+  
 }
