@@ -6,11 +6,11 @@
 /* 3691cf */
 body,
 html {
-  max-width: 1290px;
+  max-width: 1365px;
   height: 100%;
   overflow-x: hidden;
   margin-right: 0px;
-}
+} 
 
 body,
 h1,
@@ -207,7 +207,8 @@ h6 {
 footer {
   padding: 50px 0;
   background-color: #3691cf;
-  width: 1250px;
+  width: 1280px;
+  margin-left: 30px;
 }
 
 p.copyright {
@@ -227,7 +228,8 @@ p.copyright {
   background-image: url(../img/fondodos.png);
   background-repeat: no-repeat;
   height: 1450px;
-  width: 1250px;
+  width: 1350px;
+  margin-left: 30px;
 }
 /*segunda imagen*/
 .text_logodos {
@@ -519,12 +521,12 @@ p.copyright {
   }
 
   p .copyright {
-    margin: 17px 15px;
-    font-size: 16px;
+    margin: 17px 15px !important;
+    font-size: 16px !important;
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     color: #ffffff;
-    width: 320px;
-    text-align: center;
+    width: 320px !important;
+    text-align: center !important;
   }
 }
