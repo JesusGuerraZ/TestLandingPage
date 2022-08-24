@@ -553,8 +553,8 @@ p.copyright {
   
   .Title_cel {
     display: block !important;
-    
-    margin-left: 100px;
+    margin-left: 100px !important;
+    margin-right: 15px !important;
   }
 
   .Case_cel {
